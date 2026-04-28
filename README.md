@@ -191,7 +191,7 @@ ANALYTIC
 
 ## Project Structure
 ```
-challenge1-ZiadKandil/
+Gradient-Descent-and-Nesterov-Methods/
 ├── main.cpp          # Main implementation with algorithms
 ├── config.txt        # Configuration file
 ├── Makefile          # Build configuration
