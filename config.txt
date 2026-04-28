@@ -1,0 +1,20 @@
+# Function
+x1*x2 + 4*x1^4 + x2^2 + 3*x1
+# Gradient (comma-separated vector)
+x2 + 16*x1^3, x1 + 2*x2
+# Initial point
+0.0 0.0
+# Tolerance for step size
+1e-6
+# Tolerance for residual
+1e-6
+# Initial learning rate
+0.01
+# Maximum iterations
+10000
+# Line search parameter sigma
+0.1
+# Alpha rule (EXP_DECAY, INV_DECAY, or LINE_SEARCH)
+LINE_SEARCH
+# Gradient rule (ANALYTIC or FINITE_DIFF)
+FINITE_DIFF
